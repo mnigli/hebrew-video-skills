@@ -1,0 +1,18 @@
+# Local runtimes, caches and media never belong in this public skill repository.
+.runtime/
+.venv/
+__pycache__/
+*.py[cod]
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.mp3
+*.m4a
+*.wav
+*.srt
+*.ass
+*.jsonl
+.env
+.env.*
+!*.example

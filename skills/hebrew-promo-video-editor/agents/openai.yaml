@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hebrew Promo Video Editor"
+  short_description: "Create polished Hebrew promotional video edits"
+  default_prompt: "Use $hebrew-promo-video-editor to create a short Hebrew promotional video from interview and branded footage."
